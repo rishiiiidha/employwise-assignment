@@ -42,7 +42,7 @@ http://localhost:5173
 ### Preview link
 
 ```
-https://employwise-assignment-mu.vercel.app/login
+https://employwise-assignment-mu.vercel.app
 
 ```
 
