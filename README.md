@@ -39,6 +39,11 @@ By default, the app runs at:
 http://localhost:5173
 ```
 
+### Preview link
 
+```
+https://employwise-assignment-mu.vercel.app
+
+```
 
 
